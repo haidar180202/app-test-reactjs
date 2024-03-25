@@ -6,7 +6,7 @@
 
 ## Getting started
 
-These instructions will get you through run of simulation react with vite.
+These instructions will get you through run of simulation react with CRA.
 
 ### Prerequisites
 
@@ -99,11 +99,5 @@ So if you run this app the page applications you can see like this
 
 ### The technology use to create the application
 
-<img src="https://img.shields.io/badge/-CRA-05122A?style=flat&logo=create-react-app" width="60" height="25" alt="cra logo"> 
-<img src="https://img.shields.io/badge/-React Hooks-05122A?style=flat&logo=react hooks" width="80" height="25" alt="Hooks logo"> 
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" width="60" height="25" alt="redux logo"> 
-<img src="https://img.shields.io/badge/-React Js-05122A?style=flat&logo=react" width="100" height="auto" alt="react.js logo"> 
-<img src="https://img.shields.io/badge/-Tailwind Css-05122A?style=flat&logo=tailwind css" width="130" height="auto" alt="tailwind css logo">
-<img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" width="80" height="auto" alt="redux logo">
-<img src="https://img.shields.io/badge/-Pnpm-05122A?style=flat&logo=pnpm" width="75" height="auto" alt="pnpm logo">
+<img src="https://img.shields.io/badge/-CRA-05122A?style=flat&logo=create-react-app" width="60" height="25" alt="cra logo">  <img src="https://img.shields.io/badge/-React Hooks-05122A?style=flat&logo=react hooks" width="80" height="25" alt="Hooks logo">  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" width="60" height="25" alt="redux logo">  <img src="https://img.shields.io/badge/-React Js-05122A?style=flat&logo=react" width="100" height="auto" alt="react.js logo">  <img src="https://img.shields.io/badge/-Tailwind Css-05122A?style=flat&logo=tailwind css" width="130" height="auto" alt="tailwind css logo">  <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" width="80" height="auto" alt="redux logo">  <img src="https://img.shields.io/badge/-Pnpm-05122A?style=flat&logo=pnpm" width="75" height="auto" alt="pnpm logo">
 
